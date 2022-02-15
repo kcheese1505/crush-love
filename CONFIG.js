@@ -1,10 +1,10 @@
 const CONFIGDATA = {
-  titleHeader: "Bạn muốn nhận phần quà nào ",
+  titleHeader: "Heluu chú Thông, chọn option mà chú mong muốn đi nè ",
   descriptionHeader:
-    "Nếu cậu thoát ra và không trả lời thì có nghĩa là cậu đã nhận quà rồi nhé ",
-  buttonYes: "3000 cái ôm siu bự từ nhóm 3",
-  buttonNo: "Phần quà khác",
-  titleModar: "Cảm ơn bạn đã đồng hành cùng tụi mình hehe",
+    "Thoát ra mà hong chọn là phạt 5 ngàn :v",
+  buttonYes: "iu bé Chi",
+  buttonNo: "được bé Chi iu :v",
+  titleModar: "Kcheese",
   descriptionModar:
-    'Have a nice day ^^',
+    'Luv u :>>',
 };
